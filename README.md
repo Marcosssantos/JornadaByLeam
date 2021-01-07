@@ -1,0 +1,2 @@
+# JornadaByLeam
+calcular media 
